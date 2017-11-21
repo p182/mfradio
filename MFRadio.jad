@@ -1,0 +1,18 @@
+MIDlet-Version: 0.9.1
+RepositoryURL-1: http://wap.megafonkavkaz.ru/radio
+MIDlet-Info-URL: http://mfradio.sourceforge.org
+MIDlet-Icon: /i/mflogo32.png
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Jar-URL: MFRadio.jar
+MIDlet-Name: MFRadio
+RadioTitle-3: SilverRain (24Kb)
+RadioTitle-2: Europa Plus (32Kb)
+RadioTitle-1: DinamitFM (48Kb)
+MIDlet-1: MFRadio,/i/mflogo32.png,ru.mobicomk.mfradio.MFRadioMidlet
+MIDlet-Description: Stream radio client
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Megafon
+Content-Folder: Applications
+RadioURL-3: http://radio.silver.ru:8000/radio
+RadioURL-2: http://stream.fluendo.com:8844/?token=
+RadioURL-1: http://ware.catv.ext.ru:8000/dinamitfm48.mp3

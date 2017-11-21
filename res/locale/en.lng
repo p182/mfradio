@@ -1,0 +1,101 @@
+Player=Player
+Edit_Station=Station
+Add_Station=Add Station
+Repository=Repository
+Playlist=Playlist
+Volume=Volume
+Play=Play
+Stop=Stop
+Exit=Exit
+Lang=Language
+Edit=Edit
+Add=Add
+Delete=Remove
+Title=Title
+Link=Link
+OK=OK
+Cancel=Cancel
+Back=Back
+Select=Select
+Goto_online=Goto
+Exit_Browser=Close browser
+Open=Open
+Save_in_playlist=To playlist
+Menu=Menu
+Refresh=Refresh
+Online_repository=Station repository
+Connecting=Connecting...
+Processing=Processing...
+Prefetching=Loading data...
+Buffer=Buffer
+Speed=Speed
+Prefetched=Data loaded
+Loading=Loading resources...
+Saving=Storing...
+Stop_playing=Canceling...
+Initialize=Initialization...
+Reconnecting=Connect again...
+Clearing=Clearing...
+Rendering=Rendering...
+Reading=Reading...
+Warning=Warning
+Error=Error
+Info=Info
+Cant_connect=Unable to connect.
+Error_start_player_for=Error playing the 
+Operation_interrupted=Operation interrupted.
+Station_in_playlist=The station is already in playlist.
+Its title:
+Must_be_stopped=The playback must be canceled
+Must_be_inited=Initialize the player before
+Queue_is_empty=Playback queue is empty. Response time elapsed.
+Saved_in_playlist= - station is saved to playlist.
+Invalid_URL=Invalid URL.
+Error_get_file=Error getting the file: 
+URL_format_error=URL format error - 
+Protocol=protocol
+Port=port
+Fill_URL_field=URL must be entered.
+Fill_TITLE_field=Title must be entered.
+No_links_found=No links found 
+Incorrect_data_format=Incorrect data format.
+Unterminated_string=Unterminated string.
+Try_again=Trying again...
+Invalid_agument=Invalid argument.
+Help=Help
+Unsupported_content_type_BEGIN=Content type "
+Unsupported_content_type_END=" is not supported.
+HTTP_response_code=HTTP response:
+PlayerUI_help_text=\h1 Controls
+\h2 Up(2)/Down(8)
+\p   - select station in the list.
+\h2 Right(4)/Left(6)
+\p   - volume control.
+\h2 OK(5)
+\p   - start/stop station playback.
+\h1 Menu
+\h2 <Add>
+\p   - add station.
+\h2 <Play>/<Stop>
+\p   - play/stop on selected station.
+\h2 <Edit>
+\p   - change station settings.
+\h2 <Delete>
+\p   - remove station from playlist.
+\h2 <Exit>
+\p   - exit the player.
+EditUI_Add_help_text=\h1 Add station link
+\p Here you can add new links to streaming station manualy.
+\p It's also possible to get them from on line repository.  Use the '<Online_repository>'.
+EditUI_Edit_help_text=\h1 Station settings
+\p You can change station setting here.
+WAPUI_help_text=\h1 '<Online_repository>'
+\p Choose the station to addd to your '<Playlist>'.
+\h2 Description
+\i /i/doc3.png
+\p   - items that can be added the '<Playlist>'.
+\p To add the selected item press '<OK>', or use '<Open>' from menu.
+\i /i/doc.png
+\p   - items that cannot be added to the '<Playlist>'.
+\i /i/unknown.png
+\p   - unrecognized items.
